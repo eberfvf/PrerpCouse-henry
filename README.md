@@ -1,2 +1,1 @@
-# PrerpCouse-henry
-Este es un repositorio de prueba del modulo 2 del curso de henry
+Este  es un proyecto de prueba de como crear un repositio  y clonarlo desde githubb
